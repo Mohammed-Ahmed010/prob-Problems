@@ -15,7 +15,4 @@ int main(){
     }
     best=max(best,curr);
     cout<<best;
- 
-
-
 }
